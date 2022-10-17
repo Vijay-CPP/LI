@@ -1,0 +1,70 @@
+
+/* NavBar CSS starts */
+
+.nav-item {
+  margin-left: 10px;
+  margin-right: 10px;
+  cursor: pointer;
+}
+
+.brand-name{
+    text-decoration: none;
+    color: black;
+    cursor: pointer;
+}
+
+.navbar{
+    position: fixed;
+    z-index: 10;
+    width: 100vw;
+}
+
+
+/* NavBar CSS Ends */
+
+/* Caousel CSS Starts*/
+
+.header-carousel-item {
+    padding-top: 10vh;
+    height: 100vh;
+}
+
+/* Caousel CSS Ends*/
+
+
+/* About starts */
+
+hr{
+    border: 2px solid gray;
+    margin: 3% auto;
+}
+
+.about-heading{
+    margin-left: 6%;
+}
+
+.about-body{
+    margin-left: 6%;
+    margin-right: 10%;
+    text-align: left;
+    font-size: 1.2rem;
+}
+
+.about-last{
+    font-size: 1.8rem;
+}
+
+/* About ends */
+
+/* Our Business Starts */
+
+.business-carousel{
+    height: 350px;
+    text-align: center;
+}
+
+.b-image{
+    border-radius: 20px;
+}
+
+/* Our Business Ends */
